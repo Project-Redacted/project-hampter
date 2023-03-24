@@ -4,5 +4,23 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/TempMainMenu.unity
+    guid: 4de52bcadc05d384694e2d86c2b3eb87
+  - enabled: 1
+    path: Assets/Scenes/25x25Scene.unity
+    guid: 34f62cf12125f794782d9944049ef848
+  - enabled: 1
+    path: Assets/Scenes/50x50Scene.unity
+    guid: 7494aecada3b77e48b8fbe2d6f845e11
+  - enabled: 1
+    path: Assets/Scenes/Settings.unity
+    guid: 42628f48d2307e94985a1d4b02a634dd
+  - enabled: 1
+    path: Assets/Scenes/WinningScene.unity
+    guid: 8c3f52c76349d7749ba4d0d8b452396f
+  - enabled: 1
+    path: Assets/Scenes/TempDiffScene.unity
+    guid: 10e3e26e40d6eb549bba8c83665e2ebd
   m_configObjects: {}
